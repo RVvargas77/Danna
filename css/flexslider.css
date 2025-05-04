@@ -273,3 +273,7 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+.hidden-lightbox-link {
+  display: none;
+}
+

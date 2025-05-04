@@ -6253,5 +6253,9 @@ button.close {
     display: none !important;
   }
 }
+.hidden-lightbox-link {
+  display: none;
+}
+
 
 /*# sourceMappingURL=bootstrap.css.map */
